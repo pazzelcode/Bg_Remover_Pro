@@ -1,6 +1,6 @@
 {
   "name": "BgRemove Pro PZC",
-  "short_name": "BgRemove Pro",
+  "short_name": "BgRemover Pro",
   "description": "Aplikasi penghapus latar belakang foto berbasis AI yang cepat, privat, dan offline-ready.",
   "start_url": "./",
   "scope": "./",
